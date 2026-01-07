@@ -91,4 +91,13 @@ MSc Bioinformatics | Data Analytics & Power BI Enthusiast
 3. Use slicers and filters to explore insights
 
 ---
+Power BI Dashboard
 
+Due to GitHub file size limitations, the Power BI `.pbix` file is hosted on Google Drive.
+
+**Download PBIX file:**  
+[Click here to download the Power BI file](https://drive.google.com/file/d/17GvURVNCfLHVBfT-bbUb4o_Vu_enA0yZ/view?usp=sharing)
+
+
+ Tools: Power BI Desktop, DAX  
+ File Format: `.pbix`
