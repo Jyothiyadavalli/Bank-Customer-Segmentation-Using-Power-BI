@@ -31,7 +31,6 @@ The dataset includes banking customer information such as:
 - Transaction details (Transaction amount, frequency, time)
 - Risk indicators (Credit score, risk category)
 
-> *Note: If original data is confidential, a sample dataset is provided.*
 
 ---
 
